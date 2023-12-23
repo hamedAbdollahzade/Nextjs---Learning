@@ -1,0 +1,23 @@
+{
+  "name": "what-is-typescript",
+  "version": "1.0.0",
+  "description": "------------------https://www.typescriptlang.org/-------------",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "npx tsc ./test2.ts -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamedAbdollahzade/What-Is-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamedAbdollahzade/What-Is-TypeScript/issues"
+  },
+  "homepage": "https://github.com/hamedAbdollahzade/What-Is-TypeScript#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
