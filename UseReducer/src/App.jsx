@@ -1,7 +1,11 @@
-
+import UseReducerExample from "./Components/UseReducerExample";
 
 function App() {
-  return <div>Template</div>;
+  return (
+    <div >
+      <UseReducerExample />
+    </div>
+  );
 }
 
 export default App;
