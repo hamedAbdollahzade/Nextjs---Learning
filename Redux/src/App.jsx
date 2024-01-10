@@ -3,6 +3,10 @@ import DownBox1 from "./components/DownBox/DownBox1"
 
 
 const App = () => {
+  
+  console.log("Start Component App");
+
+
   return (
     <div className="flex flex-col justify-center items-center" >
 
