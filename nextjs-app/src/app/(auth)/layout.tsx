@@ -3,7 +3,9 @@ const layout = ({
 }: Readonly<{
   children: React.ReactNode;
 }>) => {
-  return <div>{children}</div>;
+  return <div>
+    <h1>Route layout</h1>
+    {children}</div>;
 };
 
 export default layout;
